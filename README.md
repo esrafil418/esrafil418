@@ -26,10 +26,7 @@ Right now, I'm learning and growing step by step in the world of web development
 ![Esrafil's GitHub stats](https://github-readme-stats.vercel.app/api?username=esrafil418&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esrafil418&layout=compact&theme=radical)
 
-![Coding Activity](https://wakatime.com/share/@CodeUniversity/ed4e30bf-7b68-44be-8e71-cbdd3157e916.png)
-
-.. image:: https://wakatime.com/share/@CodeUniversity/ed4e30bf-7b68-44be-8e71-cbdd3157e916.png
-    :target: https://wakatime.com/
+![Coding Activity](https://wakatime.com/share/@CodeUniversity/ed4e30bf-7b68-44be-8e71-cbdd3157e916.png)    
 
 ---
 
