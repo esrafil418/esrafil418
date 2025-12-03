@@ -7,7 +7,7 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **HTML**, **CSS**, **JavaScript**, and diving into **React** & **TypeScript**.
+* 🌱 Currently learning **JavaScript**, **TypeScript**, **React**, and diving into **Next.js** & **Node.js**.
 * 💻 Exploring UI frameworks like **Tailwind CSS** and **Bootstrap** to create clean, responsive designs.
 * ⚡ I love learning new technologies and improving every day.
 * 🎯 My goal is to become a **Full-Stack Developer** and build meaningful digital projects.
