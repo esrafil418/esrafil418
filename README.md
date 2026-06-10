@@ -30,9 +30,9 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ## 💬 Let's Connect
 
+* 🌐 [Portfolio](https://esrafil-portfolio.netlify.app/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/esrafil-aslani-2249b019a/)
 * 🐦 [Twitter](https://x.com/Mr_President303)
-* 🌐 [Portfolio]() *(coming soon!)*
 
 ---
 
