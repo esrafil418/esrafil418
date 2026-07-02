@@ -25,6 +25,7 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ![Esrafil's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=esrafil418&theme=2077)
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esrafil418&theme=2077)
+<img src="https://hit.yhype.me/github/profile?user_id=esrafil418" alt="Views"/>
 
 ---
 
