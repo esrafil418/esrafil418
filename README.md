@@ -23,8 +23,8 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ## 📈 GitHub Stats
 
-![Esrafil's GitHub stats](https://github-readme-stats.vercel.app/api?username=esrafil418&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esrafil418&layout=compact&theme=radical)
+![GitHub followers](https://img.shields.io/github/followers/esrafil418?style=social)
+![GitHub stars](https://img.shields.io/github/stars/esrafil418?style=social)
 
 <!-- 👁️ VISITOR COUNTER -->
 ## 👁️ Profile Views
