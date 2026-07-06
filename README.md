@@ -23,11 +23,7 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ## 📈 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/esrafil418?style=social)
-![GitHub stars](https://img.shields.io/github/stars/esrafil418?style=social)
-
-<!-- 👁️ VISITOR COUNTER -->
-## 👁️ Profile Views
+![Esrafil's GitHub stats](https://github-readme-stats.vercel.app/api?username=esrafil418&show_icons=true&theme=radical&_t=$(date +%s))
 
 ![Profile Views](https://komarev.com/ghpvc/?username=esrafil418&color=blue)
 
