@@ -17,14 +17,13 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ## 🧠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,tailwind,bootstrap,materialui,react,redux,nextjs,ts,git,github,figma,nodejs,express,mongodb,postman,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,materialui,react,redux,nextjs,ts,git,github)](https://skillicons.dev)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Esrafil's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=esrafil418&theme=2077)
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esrafil418&theme=2077)
+![GitHub Stats](https://gh-stats.vercel.app/api?username=esrafil418&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=esrafil418&color=blue)
 
