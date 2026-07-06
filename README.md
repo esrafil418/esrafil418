@@ -26,7 +26,7 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Esrafil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esrafil418&show_icons=true&theme=radical&hide_border=true)
 
@@ -34,7 +34,7 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ---
 
-### Let's Connect
+### 💬 Let's Connect
 
 * 🌐 [Portfolio](https://esrafil-portfolio.netlify.app/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/esrafil-aslani-2249b019a/)
@@ -44,6 +44,6 @@ Right now, I'm learning and growing step by step in the world of web development
 
 > "Every line of code is a small step toward mastery."
 
-Thanks for visiting my profile!
+Thanks for visiting my profile! 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=esrafil418&color=blue)
