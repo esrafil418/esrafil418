@@ -7,29 +7,23 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **JavaScript**, **TypeScript**, **React**, and diving into **Next.js** & **Node.js**.
+* 🌱 Currently learning **React**, **TypeScript**, **Next.js**, and diving into **Tanstack** & **Node.js**.
 * 💻 Exploring UI frameworks like **Tailwind CSS** and **Bootstrap** to create clean, responsive designs.
 * ⚡ I love learning new technologies and improving every day.
 * 🎯 My goal is to become a **Full-Stack Developer** and build meaningful digital projects.
 * 📚 I'm also interested in **philosophy**, **art**, **history**, and **technology** — I believe creativity fuels code.
 
+![Profile Views](https://komarev.com/ghpvc/?username=esrafil418&color=blue)
+
 ---
 
-## 🧠 Tech Stack
+### Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,materialui,react,redux,nextjs,ts,git,github)](https://skillicons.dev)
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://gh-stats.vercel.app/api?username=esrafil418&theme=dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=esrafil418&color=blue)
-
----
-
-## 💬 Let's Connect
+### Let's Connect
 
 * 🌐 [Portfolio](https://esrafil-portfolio.netlify.app/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/esrafil-aslani-2249b019a/)
@@ -37,6 +31,6 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ---
 
-> "Every line of code is a small step toward mastery." ✨
+> "Every line of code is a small step toward mastery."
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile!
