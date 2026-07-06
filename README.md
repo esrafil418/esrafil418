@@ -17,7 +17,7 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ## 🧠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,ts,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,tailwind,bootstrap,materialui,react,redux,nextjs,ts,git,github,figma,nodejs,express,mongodb,postman,prisma)](https://skillicons.dev)
 
 ---
 
