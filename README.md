@@ -28,8 +28,9 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ### 📊 GitHub Stats
 
-![Stats](https://pixel-profile.vercel.app/api/github-stats?username=esrafil418&theme=blue_chill)
-![Languages](https://pixel-profile.vercel.app/api/top-langs?username=esrafil418&theme=blue_chill)
+![Followers](https://img.shields.io/github/followers/esrafil418?style=flat-square&logo=github&color=blue)
+![Stars](https://img.shields.io/github/stars/esrafil418?style=flat-square&logo=github&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=esrafil418&style=flat-square&color=blue)
 
 ---
 
@@ -44,5 +45,3 @@ Right now, I'm learning and growing step by step in the world of web development
 > "Every line of code is a small step toward mastery."
 
 Thanks for visiting my profile! 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=esrafil418&color=blue)
