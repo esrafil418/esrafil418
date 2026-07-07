@@ -28,9 +28,19 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ### 📊 GitHub Stats
 
-![Esrafil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esrafil418&show_icons=true&theme=radical&hide_border=true)
+<!-- Stats Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=esrafil418&screen_effect=true&theme=blue_chill">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=esrafil418&theme=summer">
+  <img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=esrafil418&theme=summer">
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esrafil418&layout=compact&theme=radical&hide_border=true)
+<!-- Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/top-langs?username=esrafil418&theme=blue_chill">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/top-langs?username=esrafil418&theme=summer">
+  <img alt="Top Languages" src="https://pixel-profile.vercel.app/api/top-langs?username=esrafil418&theme=summer">
+</picture>
 
 ---
 
