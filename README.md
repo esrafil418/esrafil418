@@ -28,9 +28,29 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ### 📊 GitHub Stats
 
+<!-- Basic Stats -->
 ![Followers](https://img.shields.io/github/followers/esrafil418?style=flat-square&logo=github&color=blue)
 ![Stars](https://img.shields.io/github/stars/esrafil418?style=flat-square&logo=github&color=yellow)
 ![Profile Views](https://komarev.com/ghpvc/?username=esrafil418&style=flat-square&color=blue)
+
+<!-- Repository Stats -->
+![Repos](https://img.shields.io/badge/Repos-?style=flat-square&logo=github&color=purple&label=Repos&labelColor=333&query=public_repos&url=https://api.github.com/users/esrafil418)
+![Issues](https://img.shields.io/github/issues/esrafil418?style=flat-square&logo=github&color=red)
+![Pull Requests](https://img.shields.io/github/issues-pr/esrafil418?style=flat-square&logo=github&color=green)
+
+<!-- Activity Stats -->
+![Last Commit](https://img.shields.io/github/last-commit/esrafil418/esrafil418?style=flat-square&logo=github&color=orange)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/esrafil418/esrafil418?style=flat-square&logo=github&color=brightgreen)
+
+<!-- Language Stats -->
+![Top Language](https://img.shields.io/github/languages/top/esrafil418/esrafil418?style=flat-square&logo=github&color=blueviolet)
+![Code Size](https://img.shields.io/github/languages/code-size/esrafil418/esrafil418?style=flat-square&logo=github&color=ff69b4)
+
+<!-- Achievement Badges -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=esrafil418&theme=darkhub&no-frame=true&row=1&column=6)
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=esrafil418&theme=react-dark&bg_color=0d1117&hide_border=true)
 
 ---
 
