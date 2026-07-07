@@ -28,19 +28,8 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ### 📊 GitHub Stats
 
-<!-- Stats Card with screen effect for dark theme -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=esrafil418&screen_effect=true&theme=blue_chill">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=esrafil418&theme=summer">
-  <img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=esrafil418&theme=summer">
-</picture>
-
-<!-- Top Languages Card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/top-langs?username=esrafil418&theme=blue_chill">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/top-langs?username=esrafil418&theme=summer">
-  <img alt="Top Languages" src="https://pixel-profile.vercel.app/api/top-langs?username=esrafil418&theme=summer">
-</picture>
+![Stats](https://pixel-profile.vercel.app/api/github-stats?username=esrafil418&theme=blue_chill)
+![Languages](https://pixel-profile.vercel.app/api/top-langs?username=esrafil418&theme=blue_chill)
 
 ---
 
