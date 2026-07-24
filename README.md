@@ -48,7 +48,8 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ### 💬 Let's Connect
 
-* 🌐 [Portfolio](https://portfolio-j25f0w2n2-esrafil418s-projects.vercel.app/)
+* 🌐 [Portfolio](https://portfolio-jade-phi-30.vercel.app/)
+* 📂 [All My Projects](https://all-projects-navy.vercel.app/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/esrafil-dev-2249b019a/)
 * 🎯 [Frontend Mentor](https://www.frontendmentor.io/profile/esrafil418)
 * 🏆 [DevChallenges](https://devchallenges.io/profile/6b91599b-6246-4940-ac4a-d844072aeced)
