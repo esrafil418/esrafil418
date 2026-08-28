@@ -33,9 +33,9 @@ Right now, I'm learning and growing step by step in the world of web development
 ### 📊 GitHub Stats
 
 <!-- Basic Stats -->
-![Followers](https://img.shields.io/github/followers/esrafil418?style=flat-square&logo=github&color=blue)
 ![Stars](https://img.shields.io/github/stars/esrafil418?style=flat-square&logo=github&color=yellow)
 ![Profile Views](https://komarev.com/ghpvc/?username=esrafil418&style=flat-square&color=blue)
+![Followers](https://img.shields.io/github/followers/esrafil418?style=flat-square&logo=github&color=blue)
 
 <!-- Activity Stats -->
 ![Last Commit](https://img.shields.io/github/last-commit/esrafil418/esrafil418?style=flat-square&logo=github&color=orange)
