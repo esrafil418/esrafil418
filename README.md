@@ -41,9 +41,6 @@ Right now, I'm learning and growing step by step in the world of web development
 ![Last Commit](https://img.shields.io/github/last-commit/esrafil418/esrafil418?style=flat-square&logo=github&color=orange)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/esrafil418/esrafil418?style=flat-square&logo=github&color=brightgreen)
 
-<!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=esrafil418&theme=react-dark&bg_color=0d1117&hide_border=true)
-
 ---
 
 ### 💬 Let's Connect
