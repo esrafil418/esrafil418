@@ -12,6 +12,7 @@ Right now, I'm learning and growing step by step in the world of web development
 * ⚡ I love learning new technologies and improving every day.
 * 🎯 My goal is to become a **Full-Stack Developer** and build meaningful digital projects.
 * 📚 I'm also interested in **philosophy**, **art**, **history**, and **technology** — I believe creativity fuels code.
+* .
 * ✍️ [Check Out My Weblog](https://matn-baz-beige.vercel.app/)
 
 ---
