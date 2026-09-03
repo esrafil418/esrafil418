@@ -56,6 +56,6 @@ Right now, I'm learning and growing step by step in the world of web development
 
 ---
 
-> "Every line of code is a small step toward mastery."
+> "Every line of code is a small step toward mastery"
 
 Thanks for visiting my profile! 🚀
