@@ -49,7 +49,7 @@ Right now, I'm learning and growing step by step in the world of web development
 * ✍️ [Personal Blog](https://matn-baz-beige.vercel.app/)
 * 🎯 [Frontend Mentor](https://www.frontendmentor.io/profile/esrafil418)
 * 🏆 [DevChallenges](https://devchallenges.io/profile/6b91599b-6246-4940-ac4a-d844072aeced)
-* 💼 [LinkedIn](linkedin.com/in/e-dev-esrafil-2249b019a)
+* 💼 [LinkedIn](https://www.linkedin.com/in/e-dev-esrafil-2249b019a)
 * 🎨 [CodePen](https://codepen.io/esrafil418)
 * 📝 [Dev.to](https://dev.to/esrafil_d3d24607b2)
 
