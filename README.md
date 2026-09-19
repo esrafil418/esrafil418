@@ -3,6 +3,8 @@
 I'm a **self-taught front-end developer** passionate about building beautiful and functional web experiences.
 Right now, I'm learning and growing step by step in the world of web development — from mastering the fundamentals to exploring modern frameworks.
 
+> 🚀 **[View All My Projects →](https://all-my-projects-one.vercel.app/)**
+
 ---
 
 ## 🚀 About Me
