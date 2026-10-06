@@ -36,7 +36,7 @@ Right now, I'm learning and growing step by step in the world of web development
 
 <!-- Basic Stats -->
 ![Stars](https://img.shields.io/github/stars/esrafil418?style=flat-square&logo=github&color=yellow)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=esrafil418.esrafil418)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=esrafil418.esrafil418)
 ![Followers](https://img.shields.io/github/followers/esrafil418?style=flat-square&logo=github&color=blue)
 
 <!-- Activity Stats -->
