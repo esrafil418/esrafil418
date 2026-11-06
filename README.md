@@ -14,7 +14,6 @@ Right now, I'm learning and growing step by step in the world of web development
 * ⚡ I love learning new technologies and improving every day.
 * 🎯 My goal is to become a **Full-Stack Developer** and build meaningful digital projects.
 * 📚 I'm also interested in **philosophy**, **art**, **history**, and **technology** — I believe creativity fuels code.
-* ✍️ [Check Out My Weblog →](https://matn-baz-beige.vercel.app/)
 
 ---
 
@@ -48,7 +47,6 @@ Right now, I'm learning and growing step by step in the world of web development
 ### 💬 Let's Connect
 
 * 📂 [All My Projects](https://all-my-projects-one.vercel.app/)
-* ✍️ [Personal Blog](https://matn-baz-beige.vercel.app/)
 * 🎯 [Frontend Mentor](https://www.frontendmentor.io/profile/esrafil418)
 * 🏆 [DevChallenges](https://devchallenges.io/profile/6b91599b-6246-4940-ac4a-d844072aeced)
 * 💼 [LinkedIn](https://www.linkedin.com/in/e-dev-esrafil-2249b019a)
